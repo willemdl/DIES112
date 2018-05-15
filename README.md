@@ -1,6 +1,13 @@
 # DIES112
 voor een schokwekkende workshop
 
+volg volgende instructies om boardmanager te installeren:
+windows:
+https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md
+mac 
+https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/mac.md
+
+
 libraries:
 
 sites voor uitleg:
